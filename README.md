@@ -1,1 +1,1 @@
-### Everyday Projects
+### Everyday Progress 

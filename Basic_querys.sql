@@ -17,9 +17,12 @@ SELECT * FROM table_name;
 -- For Delete Records Only In Table
 TRUNCATE TABLE table_name;
 
--- For Delete Table / Database 
+-- For Delete Table 
 DELETE TABLE table_name;
+
+-- For Delete Database 
 DELETE DATABASE database_name;
+
 
 
 

@@ -23,7 +23,7 @@ DELETE TABLE table_name;
 -- For Delete Database 
 DELETE DATABASE database_name;
 
-
+--These Are The Basic SQL Querys 
 
 
 

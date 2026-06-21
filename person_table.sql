@@ -14,4 +14,7 @@ INSERT INTO person (name, email, country) VALUES
 ('Nithish', 'nithish@gmail.com', 'india'),
 ('Siva', 'siva@gmail.com', 'india'),
 ('Kumar', 'kumar@gmail.com', 'india'),
-('Vijay', 'vijay@gmail.com', 'india');
+('Vijay', 'vijay@gmail.com', 'india'),
+('Akil','akil@gmail.com','india');
+
+

@@ -7,7 +7,7 @@ CREATE TABLE person (
   country VARCHAR(20)
   );
 
--- INSERT 5 Rows Of DATA'S INTO PERSON TABLE 
+-- INSERT 7 Rows Of DATA'S INTO PERSON TABLE 
   
 INSERT INTO person (name, email, country) VALUES 
 ('Naveen', 'naveen@gmail.com', 'india'),
@@ -16,6 +16,7 @@ INSERT INTO person (name, email, country) VALUES
 ('Kumar', 'kumar@gmail.com', 'india'),
 ('Vijay', 'vijay@gmail.com', 'india'),
 ('Akil','akil@gmail.com','india'),
-('vishwa','vishwa@gmail.com','india';
+('vishwa','vishwa@gmail.com','india');
+
 
 
